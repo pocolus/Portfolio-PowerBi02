@@ -18,8 +18,15 @@
 
 **•	CONJUNTO DE DATOS:** En este trabajo desarrollamos 4 tablas, de datos, continente, pais y año. El conjunto de datos incluye varios indicadores clave, que van desde la esperanza de vida, las métricas de población y los factores económicos hasta las condiciones ambientales y los comportamientos relacionados con la salud. Los valores faltantes se manejaron con cuidado y solo se conservaron los datos más relevantes con una cobertura sustancial.
 
-**• ENLACE DASHBOARD ARCHIVO POWER BI**
+**• ENLACE DESCARGA DASHBOARD ARCHIVO POWER BI**
+
+![DESCARGA](https://github.com/pocolus/Portfolio-PowerBi02/blob/main/Proyecto2.pbix)
 
 **• VIDEO DEMOSTRATIVO DEL DASHBOARD**
 
+Puedes ver el video directamente en el siguiente enlace:  
+
+
 **•	IMAGEN-DASHBOARD 1:**
+
+
