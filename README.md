@@ -24,6 +24,8 @@
 
 **• VIDEO DEMOSTRATIVO DEL DASHBOARD**
 
+[Ver el video en ScreenApp](https://screenapp.io/app/#/shared/-U2jljM_hG)
+
 Puedes ver el video directamente en el siguiente enlace:  
 
 
