@@ -2,6 +2,7 @@
 
 **•	TITULO: Global Health and Development (2012-2021).**
 
+![DIAGRAMA](https://github.com/pocolus/Portfolio-PowerBi02/blob/main/DER.png)
 
 **•	DESCRIPCION DEL PROYECTO:** Este conjunto de datos proporciona una descripción general completa y curada de las métricas demográficas, económicas, ambientales y de salud global para 188 países reconocidos durante un período de 10 años (2012-2021). Se creó combinando datos confiables del Banco Mundial y la Organización Mundial de la Salud (OMS). Debido a la ausencia de una única fuente que contuviera todos los indicadores necesarios, se analizaron, limpiaron y fusionaron más de 60 conjuntos de datos, priorizando la integridad y la importancia de los mismos.
 
