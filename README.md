@@ -20,7 +20,7 @@
 
 **• ENLACE DESCARGA DASHBOARD ARCHIVO POWER BI**
 
-![ARCHIVO](https://github.com/pocolus/Portfolio-PowerBi02/blob/main/Proyecto2.pbix)
+[ARCHIVO](https://github.com/pocolus/Portfolio-PowerBi02/blob/main/Proyecto2.pbix)
 
 **• VIDEO DEMOSTRATIVO DEL DASHBOARD**
 
