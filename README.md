@@ -20,7 +20,7 @@
 
 **• ENLACE DESCARGA DASHBOARD ARCHIVO POWER BI**
 
-![DESCARGA](https://github.com/pocolus/Portfolio-PowerBi02/blob/main/Proyecto2.pbix)
+![ARCHIVO](https://github.com/pocolus/Portfolio-PowerBi02/blob/main/Proyecto2.pbix)
 
 **• VIDEO DEMOSTRATIVO DEL DASHBOARD**
 
@@ -30,5 +30,33 @@ Puedes ver el video directamente en el siguiente enlace:
 **•	IMAGEN-DASHBOARD 1:**
 
 ![IMAGEN1](https://github.com/pocolus/Portfolio-PowerBi02/blob/e02bbcd0b0ac0c778ea7bda96a4ad9a8a7d15eef/1.png)
+
+**•	IMAGEN-DASHBOARD 2:**
+
+![IMAGEN2](https://github.com/pocolus/Portfolio-PowerBi02/blob/e02bbcd0b0ac0c778ea7bda96a4ad9a8a7d15eef/2.png)
+
+**•	IMAGEN-DASHBOARD 3:**
+
+![IMAGEN3](https://github.com/pocolus/Portfolio-PowerBi02/blob/e02bbcd0b0ac0c778ea7bda96a4ad9a8a7d15eef/3.png)
+
+**•	IMAGEN-DASHBOARD 4:**
+
+![IMAGEN4](https://github.com/pocolus/Portfolio-PowerBi02/blob/e02bbcd0b0ac0c778ea7bda96a4ad9a8a7d15eef/4.png)
+
+**•	IMAGEN-DASHBOARD 5:**
+
+![IMAGEN5](https://github.com/pocolus/Portfolio-PowerBi02/blob/e02bbcd0b0ac0c778ea7bda96a4ad9a8a7d15eef/5.png)
+
+**•	IMAGEN-DASHBOARD 6:**
+
+![IMAGEN6](https://github.com/pocolus/Portfolio-PowerBi02/blob/e02bbcd0b0ac0c778ea7bda96a4ad9a8a7d15eef/6.png)
+
+**•	IMAGEN-DASHBOARD 7:**
+
+![IMAGEN7](https://github.com/pocolus/Portfolio-PowerBi02/blob/e02bbcd0b0ac0c778ea7bda96a4ad9a8a7d15eef/7.png)
+
+
+
+
 
 
