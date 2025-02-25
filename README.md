@@ -17,3 +17,9 @@
 **•	HERRAMIENTAS O LENGUAJES:** Básicamente para este proyecto utilizamos la herramienta Microsoft Power Bi, en donde usamos funciones propias de la herramienta como parametros, medidas calculadas, columnas calculadas, variables y correlaciones, todo esto con funciones dax, diferentes tipos de graficos avanzados, asi como un dashboard interactivo detallando cada dato importante del estudio. Tambien usamos microsoft excel y python para generar graficos de heatmap y regresion lineal.
 
 **•	CONJUNTO DE DATOS:** En este trabajo desarrollamos 4 tablas, de datos, continente, pais y año. El conjunto de datos incluye varios indicadores clave, que van desde la esperanza de vida, las métricas de población y los factores económicos hasta las condiciones ambientales y los comportamientos relacionados con la salud. Los valores faltantes se manejaron con cuidado y solo se conservaron los datos más relevantes con una cobertura sustancial.
+
+**• ENLACE DASHBOARD ARCHIVO POWER BI**
+
+**• VIDEO DEMOSTRATIVO DEL DASHBOARD**
+
+**•	IMAGEN-DASHBOARD 1:**
