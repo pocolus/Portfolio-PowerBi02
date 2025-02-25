@@ -29,4 +29,6 @@ Puedes ver el video directamente en el siguiente enlace:
 
 **•	IMAGEN-DASHBOARD 1:**
 
+![IMAGEN1](https://github.com/pocolus/Portfolio-PowerBi02/blob/e02bbcd0b0ac0c778ea7bda96a4ad9a8a7d15eef/1.png)
+
 
